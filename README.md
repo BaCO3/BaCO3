@@ -1,5 +1,3 @@
 __GitHub 视我为程序员，我视 GitHub 为网盘__
 
-日理万机宵衣旰食之余学学 Web:face_in_clouds:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaCO3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaCO3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)--->
